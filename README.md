@@ -1,6 +1,11 @@
 # 💫 About Me:
-I am Oğuzhan, I am 24 years old and I have not just started my software career. I started in the field of web design in my high school years. Even though I continued as an amateur after high school, I had 2 years of architectural education, so I received full stack developer training with Neos Software Academy. This training included HTML, CSS, JAVASCRIPT. , JQUERY, REACT, PYTHON, DJANGO. After my education, I took part in a full stack project at Neos Yazılım Academy. If I talk about myself, I am a person who can work resolutely even under pressure, has endless patience, can take the lead in teamwork and has high persuasion skills, and I also have a humorous and entertaining nature.
+Hello! I'm Oğuzhan Sancar, a creative and passionate software developer. My journey in web design and coding began during my high school years, and it gained an international dimension through my Erasmus+ internship in Germany. After completing my 2-year associate's degree in architectural restoration, I furthered my education at Neos Software Academy. I honed my skills across a wide range of technologies, starting from fundamental ones like HTML, CSS, and JavaScript, to more advanced tools like Bootstrap 5, Node.js, React, Python, Django, and C#.
 
+Combining my knowledge in both front-end and back-end development, along with the training I received during my internship at the institution and my certification as a Specialist Software Developer from Fatih Sultan Mehmet Foundation University, has propelled me to the top of my field. My successes in the projects I've participated in have been recognized with Participation and ICCW certificates from Neos Software Academy. With a deep knowledge of computer science, I also provide expertise in hardware and programming topics.
+
+Currently, I'm pushing boundaries and advancing further with projects in various fields, determined to shape the technologies of the future.
+
+Please note that this translation is provided for informational purposes, and the quality may vary depending on the context.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oğuzhan-sancar-3295b31aa/) 
